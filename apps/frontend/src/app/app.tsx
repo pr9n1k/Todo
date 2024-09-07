@@ -4,7 +4,7 @@ import styles from './app.module.css';
 export function App() {
   return (
     <div>
-      <h1 className={styles.h1}>Some</h1>
+      <h1 className={styles.app}>Some</h1>
     </div>
   );
 }
